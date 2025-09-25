@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manuel Koellner
+# 👋 Hi, I'm Manuel
 
 **Fullstack Software Developer | Banking Sector | Backend Specialist**
 
@@ -19,7 +19,7 @@ Currently, I'm diving deeper into Data Engineering and Machine Learning.
 ## 🛠️ Tech Stack & Skills
 
 - **Backend:** Java (Maven, Spring Boot, Hibernate), Python
-- **Frontend:** JavaScript (TypeScript), Vue.js, CSS (SASS)
+- **Frontend:** JavaScript (TypeScript), Vue.js, CSS (LESS)
 - **Database:** SQL (MySQL, PostgreSQL)
 - **Automation & CI/CD:** Selenium, Jenkins
 - **Other:** REST APIs, CMS Magnolia
